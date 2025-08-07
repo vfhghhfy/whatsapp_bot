@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1754369190022,
+    "chatId": "1234567890@s.whatsapp.net",
+    "setBy": "1234567890@s.whatsapp.net",
+    "message": "meetings",
+    "time": "2025-08-05T19:14:00.000Z",
+    "setAt": "2025-08-05T04:46:30.024Z"
+  },
+  {
+    "id": 1754369190038,
+    "chatId": "1234567890@s.whatsapp.net",
+    "setBy": "1234567890@s.whatsapp.net",
+    "message": "meetings",
+    "time": "2025-08-05T19:15:00.000Z",
+    "setAt": "2025-08-05T04:46:30.038Z"
+  },
+  {
+    "id": 1754369190044,
+    "chatId": "1234567890@s.whatsapp.net",
+    "setBy": "1234567890@s.whatsapp.net",
+    "message": "meetings",
+    "time": "2025-08-05T04:48:30.000Z",
+    "setAt": "2025-08-05T04:46:30.044Z"
+  },
+  {
+    "id": 1754369190050,
+    "chatId": "1234567890@s.whatsapp.net",
+    "setBy": "1234567890@s.whatsapp.net",
+    "message": "Call John",
+    "time": "2025-08-05T12:30:00.000Z",
+    "setAt": "2025-08-05T04:46:30.050Z"
+  },
+  {
+    "id": 1754369190053,
+    "chatId": "1234567890@s.whatsapp.net",
+    "setBy": "1234567890@s.whatsapp.net",
+    "message": "Review",
+    "time": "2025-08-06T06:00:00.000Z",
+    "setAt": "2025-08-05T04:46:30.053Z"
+  },
+  {
+    "id": 1754369239877,
+    "chatId": "1234567890@s.whatsapp.net",
+    "setBy": "1234567890@s.whatsapp.net",
+    "message": "Team meeting",
+    "time": "2025-08-05T11:00:00.000Z",
+    "setAt": "2025-08-05T04:47:19.878Z"
+  },
+  {
+    "id": 1754244816364,
+    "chatId": "1234567890@s.whatsapp.net",
+    "setBy": "1234567890@s.whatsapp.net",
+    "message": "Test message",
+    "time": "2025-08-03T18:18:36.000Z",
+    "setAt": "2025-08-03T18:13:36.369Z"
+  }
+]
